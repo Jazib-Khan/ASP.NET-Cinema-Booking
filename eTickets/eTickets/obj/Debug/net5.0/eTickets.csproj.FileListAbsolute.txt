@@ -70,3 +70,4 @@ C:\Users\User\Documents\GitHub\ASP.NET-Cinema-Booking\eTickets\eTickets\obj\Debu
 C:\Users\User\Documents\GitHub\ASP.NET-Cinema-Booking\eTickets\eTickets\obj\Debug\net5.0\ref\eTickets.dll
 C:\Users\User\Documents\GitHub\ASP.NET-Cinema-Booking\eTickets\eTickets\obj\Debug\net5.0\eTickets.pdb
 C:\Users\User\Documents\GitHub\ASP.NET-Cinema-Booking\eTickets\eTickets\obj\Debug\net5.0\eTickets.genruntimeconfig.cache
+C:\Users\User\Documents\GitHub\ASP.NET-Cinema-Booking\eTickets\eTickets\obj\Debug\net5.0\Razor\Views\Actors\Index.cshtml.g.cs

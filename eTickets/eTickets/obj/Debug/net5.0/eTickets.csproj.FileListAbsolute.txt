@@ -73,3 +73,4 @@ C:\Users\User\Documents\GitHub\ASP.NET-Cinema-Booking\eTickets\eTickets\obj\Debu
 C:\Users\User\Documents\GitHub\ASP.NET-Cinema-Booking\eTickets\eTickets\obj\Debug\net5.0\Razor\Views\Actors\Index.cshtml.g.cs
 C:\Users\User\Documents\GitHub\ASP.NET-Cinema-Booking\eTickets\eTickets\obj\Debug\net5.0\Razor\Views\Producers\Index.cshtml.g.cs
 C:\Users\User\Documents\GitHub\ASP.NET-Cinema-Booking\eTickets\eTickets\obj\Debug\net5.0\Razor\Views\Cinemas\Index.cshtml.g.cs
+C:\Users\User\Documents\GitHub\ASP.NET-Cinema-Booking\eTickets\eTickets\obj\Debug\net5.0\Razor\Views\Movies\Index.cshtml.g.cs

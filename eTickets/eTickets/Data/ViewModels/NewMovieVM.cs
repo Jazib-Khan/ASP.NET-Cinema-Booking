@@ -18,7 +18,6 @@ namespace eTickets.Models
 
         [Display(Name = "Movie description")]
         [Required(ErrorMessage = "Description is required")]
-
         public string Description { get; set; }
 
         [Display(Name = "Price in £")]

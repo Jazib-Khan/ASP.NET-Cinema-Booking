@@ -87,3 +87,4 @@ C:\Users\User\Documents\GitHub\ASP.NET-Cinema-Booking\eTickets\eTickets\obj\Debu
 C:\Users\User\Documents\GitHub\ASP.NET-Cinema-Booking\eTickets\eTickets\obj\Debug\net5.0\Razor\Views\Cinemas\Delete.cshtml.g.cs
 C:\Users\User\Documents\GitHub\ASP.NET-Cinema-Booking\eTickets\eTickets\obj\Debug\net5.0\Razor\Views\Movies\Details.cshtml.g.cs
 C:\Users\User\Documents\GitHub\ASP.NET-Cinema-Booking\eTickets\eTickets\obj\Debug\net5.0\Razor\Views\Movies\Create.cshtml.g.cs
+C:\Users\User\Documents\GitHub\ASP.NET-Cinema-Booking\eTickets\eTickets\obj\Debug\net5.0\Razor\Views\Shared\_CreateItem.cshtml.g.cs

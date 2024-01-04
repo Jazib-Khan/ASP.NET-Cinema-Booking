@@ -26,8 +26,15 @@ using eTickets.Models;
 #line default
 #line hidden
 #nullable disable
+#nullable restore
+#line 3 "C:\Users\User\Documents\GitHub\ASP.NET-Cinema-Booking\eTickets\eTickets\Views\_ViewImports.cshtml"
+using Microsoft.AspNetCore.Identity;
+
+#line default
+#line hidden
+#nullable disable
     [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"e1b704cec972f0d23d6abb6f622f42816eb7606d", @"/Views/Movies/Details.cshtml")]
-    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"ae36ea9afdbf4434090466b2ad951861827cd6f9", @"/Views/_ViewImports.cshtml")]
+    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"b79a461c69f3053c76dfbbe2caf2207e8fe51d79", @"/Views/_ViewImports.cshtml")]
     public class Views_Movies_Details : global::Microsoft.AspNetCore.Mvc.Razor.RazorPage<Movie>
     {
         private static readonly global::Microsoft.AspNetCore.Razor.TagHelpers.TagHelperAttribute __tagHelperAttribute_0 = new global::Microsoft.AspNetCore.Razor.TagHelpers.TagHelperAttribute("asp-controller", "Cinemas", global::Microsoft.AspNetCore.Razor.TagHelpers.HtmlAttributeValueStyle.DoubleQuotes);
@@ -117,7 +124,7 @@ WriteAttributeValue("", 719, Model.Name, 719, 11, false);
 #line hidden
 #nullable disable
             WriteLiteral(" </p>\r\n                        <p class=\"card-text\">\r\n                            <b>Cinema: </b>\r\n                            ");
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "e1b704cec972f0d23d6abb6f622f42816eb7606d8466", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "e1b704cec972f0d23d6abb6f622f42816eb7606d8682", async() => {
                 WriteLiteral("\r\n                                ");
 #nullable restore
 #line 32 "C:\Users\User\Documents\GitHub\ASP.NET-Cinema-Booking\eTickets\eTickets\Views\Movies\Details.cshtml"
@@ -158,7 +165,7 @@ WriteAttributeValue("", 719, Model.Name, 719, 11, false);
             Write(__tagHelperExecutionContext.Output);
             __tagHelperExecutionContext = __tagHelperScopeManager.End();
             WriteLiteral("\r\n                        </p>\r\n                        <p class=\"card-text\">\r\n                            <b>Producer: </b>\r\n                            ");
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "e1b704cec972f0d23d6abb6f622f42816eb7606d11380", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "e1b704cec972f0d23d6abb6f622f42816eb7606d11596", async() => {
                 WriteLiteral("\r\n                                ");
 #nullable restore
 #line 38 "C:\Users\User\Documents\GitHub\ASP.NET-Cinema-Booking\eTickets\eTickets\Views\Movies\Details.cshtml"
@@ -280,7 +287,7 @@ WriteAttributeValue("", 3092, actor.Actor.ProfilePictureUrl, 3092, 30, false);
 #nullable disable
             EndWriteAttribute();
             WriteLiteral(" style=\"max-width: 150px\"/>\r\n                                        <br />\r\n                                        ");
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "e1b704cec972f0d23d6abb6f622f42816eb7606d18168", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "e1b704cec972f0d23d6abb6f622f42816eb7606d18384", async() => {
 #nullable restore
 #line 69 "C:\Users\User\Documents\GitHub\ASP.NET-Cinema-Booking\eTickets\eTickets\Views\Movies\Details.cshtml"
                                                                                                                  Write(actor.Actor.FullName);
@@ -337,7 +344,7 @@ WriteAttributeValue("", 3092, actor.Actor.ProfilePictureUrl, 3092, 30, false);
                     <div class=""card-footer"">
                         <p class=""card-text"">
                             ");
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "e1b704cec972f0d23d6abb6f622f42816eb7606d21471", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "e1b704cec972f0d23d6abb6f622f42816eb7606d21687", async() => {
                 WriteLiteral("\r\n                                Back to List\r\n                            ");
             }
             );
@@ -354,7 +361,7 @@ WriteAttributeValue("", 3092, actor.Actor.ProfilePictureUrl, 3092, 30, false);
             Write(__tagHelperExecutionContext.Output);
             __tagHelperExecutionContext = __tagHelperScopeManager.End();
             WriteLiteral("\r\n                            ");
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "e1b704cec972f0d23d6abb6f622f42816eb7606d22812", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "e1b704cec972f0d23d6abb6f622f42816eb7606d23028", async() => {
                 WriteLiteral("<i class=\"bi bi-cart-plus\"></i> Add to Cart (Price ");
 #nullable restore
 #line 85 "C:\Users\User\Documents\GitHub\ASP.NET-Cinema-Booking\eTickets\eTickets\Views\Movies\Details.cshtml"

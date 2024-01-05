@@ -102,3 +102,4 @@ C:\Users\User\Documents\GitHub\ASP.NET-Cinema-Booking\eTickets\eTickets\obj\Debu
 C:\Users\User\Documents\GitHub\ASP.NET-Cinema-Booking\eTickets\eTickets\obj\Debug\net5.0\Razor\Views\Account\Register.cshtml.g.cs
 C:\Users\User\Documents\GitHub\ASP.NET-Cinema-Booking\eTickets\eTickets\obj\Debug\net5.0\Razor\Views\Account\RegisterCompleted.cshtml.g.cs
 C:\Users\User\Documents\GitHub\ASP.NET-Cinema-Booking\eTickets\eTickets\obj\Debug\net5.0\Razor\Views\Shared\_Identity.cshtml.g.cs
+C:\Users\User\Documents\GitHub\ASP.NET-Cinema-Booking\eTickets\eTickets\obj\Debug\net5.0\Razor\Views\Account\Users.cshtml.g.cs

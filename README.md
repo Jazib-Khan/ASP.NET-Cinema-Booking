@@ -1,2 +1,2 @@
 # ASP.NET-Cinema-Booking
-Creating a cinema booking site using ASP.NET MVC 5
+Developed a cinema booking site using C# ASP.NET MVC 5
